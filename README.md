@@ -3,3 +3,10 @@
 类似联系人界面滑动式头部字母固定
 效果图
 ![usage pic](./gif/stickheader.gif)
+
+
+使用方法很简单
+首先让你的adapter implements StickHeaderDecoration.StickHeaderInterface 
+来告诉那些item需要被固定
+然后为你的recyclerView.addItemDecoration(new StickHeaderDecoration(recycle));
+OK
