@@ -13,7 +13,6 @@ public class StickHeaderDecoration extends RecyclerView.ItemDecoration {
     public interface StickHeaderInterface {
         /**
          * is this item need stick
-         *
          * @param position now item position in the recyclerView
          * @return true : need stick else not
          */
