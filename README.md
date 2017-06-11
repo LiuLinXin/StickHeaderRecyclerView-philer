@@ -11,3 +11,5 @@
 来告诉那些item需要被固定
 然后为你的recyclerView.addItemDecoration(new StickHeaderDecoration(recycle));
 OK
+
+使用与原理分析见博客http://blog.csdn.net/hx3971/article/details/72967858
