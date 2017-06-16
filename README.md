@@ -1,5 +1,6 @@
 # StickHeaderRecyclerView-philer
 轻量级控件
+recyclerview头部固定
 类似联系人界面滑动式头部字母固定
 
 效果图
