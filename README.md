@@ -6,7 +6,8 @@
 ![usage pic](./gif/stickheader.gif)
 
 
-使用方法很简单
+使用最简单的逻辑与最少的代码实现，最优先使用系统提供的方法，总代码100行不到，使用方法很简单
+
 首先让你的adapter implements StickHeaderDecoration.StickHeaderInterface 
 来告诉那些item需要被固定
 然后为你的recyclerView.addItemDecoration(new StickHeaderDecoration(recycle));
